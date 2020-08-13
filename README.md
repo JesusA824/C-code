@@ -1,2 +1,2 @@
 # C-code
-learnig Operating Systems
+learning Operating Systems
